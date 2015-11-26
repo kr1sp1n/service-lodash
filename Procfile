@@ -1,1 +1,1 @@
-app: node index.js
+dev: $(npm bin)/node-dev index.js
