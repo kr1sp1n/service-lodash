@@ -1,0 +1,7 @@
+{
+  "name": "service-lodash",
+  "description": "Lodash as a service",
+  "repository": "https://github.com/kr1sp1n/service-lodash",
+  "keywords": ["lodash", "REST", "util"],
+  "image": "heroku/nodejs"
+}
